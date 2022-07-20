@@ -11,7 +11,7 @@ public class Integer {
         int c=110000012;
         System.out.println("c="+c);
         long d=300000000000000L;
-        System.out.println("d="+d);
+        System.out.println("d="+d); // i want to change
 
 
 
